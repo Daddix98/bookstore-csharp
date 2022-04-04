@@ -23,9 +23,9 @@ string copertiraFlessibile = "SI";
 //Stampo in video le informazioni soprastanti
 
 Console.WriteLine("Titolo : " + titolo + "\nNome Autore : " +  nomeAutore + "\nISBN : " + ISBN + "\nNumero Pagine : "
-    + numeroPagine + "\nPeso Libro : " +grammiLibro + "\nLunghezza Libro : " + lunghezzaLibro+
-"\nAltezza Libro : " + altezzaLibro + "\nProfondità Libro : " + profonditaLibro + "\nValutazione Media : " + valutazioneMedia +
-"\nRecensioni Libro : " + recenzioniLibro + "\nVersione Kidle : " + versioneKidle + "\nCopertina Flessibile : " + copertiraFlessibile);
+       + numeroPagine + "\nPeso Libro : " +grammiLibro + "\nLunghezza Libro : " + lunghezzaLibro+"\nAltezza Libro : "    
+       + altezzaLibro + "\nProfondità Libro : " + profonditaLibro + "\nValutazione Media : " + valutazioneMedia + "\nRecensioni" +
+       " Libro : " + recenzioniLibro + "\nVersione Kidle : " + versioneKidle + "\nCopertina Flessibile : " + copertiraFlessibile);
 
 
 

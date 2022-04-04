@@ -7,6 +7,7 @@
 Console.WriteLine("--ESERCIZIO BONUS--");
 
 //CHIEDO ALL'UTENTE DI INSERIRE LE INFORMAZIONI SU UN LIBRO DI SUA SCELTA 
+//ASSEGNO AD OGNI RISPOSTA IL VALORE CORRISPONDENTE 
 
 Console.WriteLine("Inserisci Titolo:");
 string titoloUtente = Console.ReadLine();
