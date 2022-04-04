@@ -14,16 +14,20 @@ int numeroPagine = 431;
 int grammiLibro = 660;
 double lunghezzaLibro = 17.91;
 double altezzaLibro = 21.5;
-double profonditàLibro = 2.54;
+double profonditaLibro = 2.54;
 float valutazioneMedia = 4.7F;
 int recenzioniLibro = 3309;
 string versioneKidle = "SI";
-string copertiraFlessibile = "si";
+string copertiraFlessibile = "SI";
+
+//Stampo in video le informazioni soprastanti
 
 Console.WriteLine("Titolo : " + titolo + "\nNome Autore : " +  nomeAutore + "\nISBN : " + ISBN + "\nNumero Pagine : "
     + numeroPagine + "\nPeso Libro : " +grammiLibro + "\nLunghezza Libro : " + lunghezzaLibro+
-"\nAltezza Libro : " + altezzaLibro + "\nProfondità Libro : " + profonditàLibro + "\nValutazione Media : " + valutazioneMedia +
+"\nAltezza Libro : " + altezzaLibro + "\nProfondità Libro : " + profonditaLibro + "\nValutazione Media : " + valutazioneMedia +
 "\nRecensioni Libro : " + recenzioniLibro + "\nVersione Kidle : " + versioneKidle + "\nCopertina Flessibile : " + copertiraFlessibile);
+
+
 
 
 
